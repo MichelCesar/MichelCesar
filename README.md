@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou Michel</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 🔭 Atualmente estou trabalhando com Business Intelligence  
+- 🔭 Atualmente estou trabalhando como Analytics Engineer 
 
 - 🌱 Atualmente estou aprendendo Ciência e Engenharia de dados **Python, PySpark, Data Lake, DW, ML, etc...**
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel, Python, Apache Hop**
+- 💬 Me pergunte sobre **SQL, Power BI, Excel, Python, Apache Spark, Apache Airflow*
 
 - 📫 Você me acha através do e-mail **platini.almeida9@hotmail.com**
 
